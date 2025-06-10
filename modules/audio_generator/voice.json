@@ -1,0 +1,42 @@
+[
+    {
+        "id": "nPczCjzI2devNBz1zQrb",
+        "name": "Brian",
+        "native_language": "American English",
+        "description": "A middle-aged male voice - American English",
+        "gender": "Male Voice",
+        "default_speed": 1.0,
+        "default_stability": 1.0,
+        "default_similarity_boost": 0.75
+    },
+    {
+        "id": "SVgp5d1fyFQRW1eQbwkq",
+        "name": "Lucas - Male Informative Voice",
+        "native_language": "Brazilian Portuguese",
+        "description": "A male voice with a friendly and informative tone - Brazilian Portuguese",
+        "gender": "Male Voice",
+        "default_speed": 0.98,
+        "default_stability": 0.71,
+        "default_similarity_boost": 0.82
+    },
+    {
+        "id": "DsbR47WNEv8o9x37ib9X",
+        "name": "Emin Efendi - Powerful & Epic",
+        "native_language": "Turkish",
+        "description": "Turkish male voice with a powerful and epic tone",
+        "gender": "Male Voice",
+        "default_speed": 1.0,
+        "default_stability": 0.44,
+        "default_similarity_boost": 1.0
+    },
+    {
+        "id": "5gLuKtB16QIQv1vuSas1",
+        "name": "David - British Radio Host & Storyteller",
+        "native_language": "British English",
+        "description": "British male voice with a friendly and informative tone",
+        "gender": "Male Voice",
+        "default_speed": 1.0,
+        "default_stability": 0.5,
+        "default_similarity_boost": 0.75
+    }
+]
